@@ -8,7 +8,7 @@ An adapted version of Sven Woltmann's fast [color-thief-java](https://github.com
 
 
 ## Getting started
-`$ npm install git://github.com/6DegreeLabs/react-native-color-thief.git --save`
+`$ npm install git://github.com/EvilGeniusTechnologies/react-native-color-thief.git --save`
 
 `//TODO $ npm install react-native-color-thief --save`
 
